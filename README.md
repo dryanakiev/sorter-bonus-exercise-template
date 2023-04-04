@@ -1,4 +1,4 @@
-# sorter-bonus-exercise-template
+# sorter-bonus-exercise
 
 You have been tasked with implementing a Sorter class that can sort arrays of integers. The Sorter class should have the following methods:
 
